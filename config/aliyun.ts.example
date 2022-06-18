@@ -1,0 +1,11 @@
+
+export default {
+    AccessKeyID: 'example',
+    AccessKeySecret: 'example',
+    OssEndpoint: 'example',
+    OssBucket: 'example',
+    OssRawUploadPath: 'example',
+    OssPerfectUploadPath: 'example',
+    OssCallbackUrl: 'https://example/callback',
+    OssRegion: 'example'
+}
